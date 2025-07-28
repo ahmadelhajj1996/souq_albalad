@@ -1,0 +1,26 @@
+{
+    "english" : "English" ,
+    "arabic" : "Arabic" ,
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "newMessageReceived": "New messages ",
+    "newUserRegistered": "New users registered",
+    "viewAllNotifications": "View all notifications",
+    
+    "home": "Home" ,
+    "categories": "Categories" ,
+    "no-data": "No data available",
+
+    
+    "name" : "Name",
+    "email" : "Email",
+    "phone" : "Phone",
+    "actions" : "Actions",
+
+    "delete" : "Delete",
+    "confirm_delete": "Are you sure you want to ",
+    "no": "No" , 
+    "adding_soon": "adding_soon en",
+    "animal": "animal en"
+}

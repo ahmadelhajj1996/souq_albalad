@@ -1,0 +1,43 @@
+{
+    "english": "الانجليزية",
+    "arabic": "العربية",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "newMessageReceived": "رسائل جديدة",
+    "newUserRegistered": " المستخدمين  الجدد",
+    "viewAllNotifications": "عرض جميع الإشعارات" ,
+
+    "home": "الرئيسية" , 
+    "categories" : "الأصناف" ,
+    "no-data": "لا توجد بيانات",
+
+
+
+    "name": "الاسم",
+    "email": "الايميل",
+    "phone": "الهاتف",
+    "actions": "الاجرائات",
+
+
+
+    "delete": "حذف",
+    "confirm_delete": "  هل تريد بالتأكيد  ",
+    "no": "لا",
+    "adding_soon": "adding_soon arabic",
+    "animal" : "animal ar"
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
