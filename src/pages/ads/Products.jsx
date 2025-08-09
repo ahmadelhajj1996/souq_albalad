@@ -65,7 +65,7 @@ function Categories() {
   return (
     <>
       <Container
-        title={"translation.Products"}
+        title={"Products"}
         additionalHeaderContent={
           <div className="flex items-center gap-x-4">
             <Search
