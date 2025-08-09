@@ -65,7 +65,7 @@ function Categories() {
   return (
     <>
       <Container
-        title={"Products"}
+        title={"translation.Products"}
         additionalHeaderContent={
           <div className="flex items-center gap-x-4">
             <Search
@@ -89,5 +89,6 @@ function Categories() {
 }
 
 export default Categories;
+
 
 
