@@ -65,7 +65,8 @@ function Categories() {
   return (
     <>
       <Container
-        title={"Categories"}
+                title={t("Products")}
+
         additionalHeaderContent={
           <div className="flex items-center gap-x-4">
             <Search
@@ -89,6 +90,7 @@ function Categories() {
 }
 
 export default Categories;
+
 
 
 
